@@ -1,0 +1,2 @@
+require("wann")
+--print("hello")
